@@ -1,0 +1,55 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 500;
+  columns: black;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: 600;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: 600;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+blockquote {
+  font-size: 20px;
+  font-weight: 600;
+  border-left: 5px solid lightblue;
+  padding: 30px 30px;
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+  color: #444;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.underlined {
+  text-decoration: underline;
+  color: #444;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.italic {
+  color: #444;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.link {
+  text-decoration: none;
+  color: maroon;
+  font-weight: 600;
+}

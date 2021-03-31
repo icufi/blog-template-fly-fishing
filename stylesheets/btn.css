@@ -1,0 +1,54 @@
+.sub {
+  background-color: white;
+  font-size: 15px;
+  border-radius: 12px;
+  padding: 12px 24px;
+  border: 2px solid red;
+  transition-duration: 0.4s;
+  outline: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.sub:hover {
+  background-color: red;
+  color: white;  
+}
+
+.btn-prog {
+  background-color: white;
+  border: 1px solid #444;
+  font-size: 15px;
+  font-weight: 700;
+  border-radius: 12px;
+  padding: 12px 24px;
+  transition-duration: 0.4s;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: 0px;
+  margin: 0px 5px;
+}
+
+.btn-prog:hover {
+  background-color: lightblue;
+  color: white;
+}
+
+.blog-cat-btn {
+  display: flex;
+  justify-content: center;
+  color: blue;
+  border: 1px solid blue;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 6px;
+  padding: 20px 0px;
+  width: 90%;
+  transition-duration: 0.4s;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 5px;
+}
+
+.blog-cat-btn:hover {
+  background-color: rgba(0, 0, 255, 0.747);
+  color: white;
+}
