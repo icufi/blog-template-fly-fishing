@@ -13,19 +13,16 @@ li {
   grid-template-columns: repeat(9, 1fr);
   gap: 30px;
   padding: 20px;
-  /* border: 2px solid red; */
 }
 
 .container-post {
   grid-area: 4 / 1 / span 1 / span 9;
   display: flex;
-  /* border: 2px solid red; */
 }
 
 .post-block {
   padding: 0px 35px;
   width: 70%;
-  /* border: 2px solid blue; */
 }
 
 .blog-title {
@@ -71,7 +68,7 @@ li {
   border-radius: 6px;
   color: white;
   text-decoration: none;
-}  
+}
 
 .text-block {
   padding: 25px 0px;
@@ -79,7 +76,6 @@ li {
 
 .side-bar {
   width: 25%;
-  /* border: 2px solid green; */
 }
 
 .about {
@@ -89,12 +85,10 @@ li {
   border-radius: 6px;
   padding: 20px;
   background-color: rgba(128, 0, 0, 0.329);
-  /* border: 2px solid red; */
 }
 
 .river-reports {
   padding: 10px;
-  /* border: 2px solid red; */
 }
 
 .ul-reports {
@@ -103,7 +97,6 @@ li {
 
 .elsewhere {
   padding: 10px;
-  /* border: 2px solid red; */
 }
 
 .else-item {
@@ -188,10 +181,10 @@ li {
   .about {
     margin-top: 45px;
   }
-  
+
   .share-block {
     gap: 0px;
     margin-top: 10px;
   }
-  
-} 
+
+}

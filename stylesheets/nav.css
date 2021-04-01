@@ -1,6 +1,5 @@
 .nav {
   grid-area: 1 / 1 / span 1 / span 9;
-  /* border: 2px solid red; */
 }
 
 .menu {
@@ -26,12 +25,10 @@
   justify-content: center;
   align-items: center;
   align-content: center;
-  /* border: 2px solid blue */
 }
 
 .subscribe {
   width: 100%;
-  /* border: 2px solid red; */
 }
 
 .header {
@@ -39,15 +36,13 @@
   display: flex;
   justify-content: space-evenly;
   padding-top: 30px;
-  /* border: 2px solid red; */
-} 
+}
 
 .search-bar {
   display: flex;
   justify-content: center;
   width: 100%;
   padding-bottom: 30px;
-  /* border: 2px solid red; */
 }
 
 
@@ -64,7 +59,7 @@
 .fa-search {
   padding: 8px 18px;
 }
-  
+
 .search:focus {
   background-color: white;
   border: 1px solid lightblue;
